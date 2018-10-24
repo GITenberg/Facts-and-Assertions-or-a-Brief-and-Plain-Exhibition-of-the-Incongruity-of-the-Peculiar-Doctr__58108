@@ -1,11 +1,16 @@
 _repo: Facts-and-Assertions-or-a-Brief-and-Plain-Exhibition-of-the-Incongruity-of-the-Peculiar-Doctr__58108
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58108-h/images/cover.jpg
 creator:
   author:
     agent_name: Faber, George Stanley
     gutenberg_agent_id: '49777'
     url: http://www.gutenberg.org/2009/agents/49777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58108#Facts-and-Assertions-or-a-Brief-and-Plain-Exhibition-of-the-Incongruity-of-the-Peculiar-Doctr_
 gutenberg_issued: '2018-10-15'
 gutenberg_type: Text
 identifiers:
